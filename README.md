@@ -18,14 +18,6 @@ Still Learning
 - Vesion Control using **Git**
 
 ## Still Newbie 
+
 ![rizkyfaizullah's github stats](https://github-readme-stats.vercel.app/api?username=rizkyfaizullah&hide=["issues"]&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyfaizullah&layout=compact&langs_count=7&theme=one_dark_pro)
-
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/rizkyfaizullah" style="display: flex; justify-content: center; width: 100%; flex-wrap: wrap;">
-    <img height="70%" src="https://github-readme-stats.vercel.app/api?username=rizkyfaizullah&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyfaizullah&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>

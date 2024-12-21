@@ -1,7 +1,7 @@
 
 <h2> Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFyNWQ1OGl4MmpjbWJ2bmJzZTRwOHd0enR1MnY5bnhiZmRndGF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B4yqd3LyVfYtoR4kKB/giphy.gif' width='200"'>
+<img align='right' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Boamd0cWFzOHZlYjdndWJ2NmtqZGpuZHA1dzNzNndwaXNkNTRyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Olffy2eqTRDKXu3AOg/giphy.gif' width='200"'>
 
 I am Rizky Faizullah as (Rizky). I am from Semarang, Indonesia.
 

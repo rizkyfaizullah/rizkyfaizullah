@@ -21,3 +21,7 @@ Still Learning
 
 ![rizkyfaizullah's github stats](https://github-readme-stats.vercel.app/api?username=rizkyfaizullah&hide=["issues"]&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyfaizullah&layout=compact&langs_count=7&theme=one_dark_pro)
+
+### Viewers
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyfaizullah&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyfaizullah" /> </p>
